@@ -1,0 +1,10 @@
+dime un animal con la letra {letra}
+dime un animal con {letra}
+dime un animal que empiece con {letra}
+animal con la letra {letra}
+animal con {letra}
+un animal con la letra {letra}
+un animal con {letra}
+un animal que empiece con {letra}
+un animal que empiece con la letra {letra}
+animal que empiece con {letra}

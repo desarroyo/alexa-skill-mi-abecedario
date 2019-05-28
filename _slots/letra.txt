@@ -1,0 +1,27 @@
+a,a
+be,b
+ce,c
+de,d
+e,e
+efe,f
+ge,g
+hache,h,ache
+i,i
+jota,j
+ka,k
+ele,l
+eme,m
+ene,n
+eñe,ñ
+o,o
+pe,p
+cu,q
+erre,r
+ese,s
+te,t
+u,u
+uve,v,u ve
+doble u,w,doble ve,doble be,doble b,doble v
+equis,x
+ye,y,igriega
+ceta,z,zeta

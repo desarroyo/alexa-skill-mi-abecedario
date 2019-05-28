@@ -1,0 +1,10 @@
+quiero saber que es un {animal}
+quiero saber que es {animal}
+el {animal}
+un {animal}
+define {animal}
+definición de {animal}
+definicion de {animal}
+que es un {animal}
+dime que es un {animal}
+{animal}

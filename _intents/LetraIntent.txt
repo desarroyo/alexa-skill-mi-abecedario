@@ -1,0 +1,14 @@
+dime una palabra con la letra {letra}
+dime una palabra con {letra}
+dime una palabra que empiece con {letra}
+palabra con la letra {letra}
+palabra con {letra}
+una palabra con la letra {letra}
+una palabra con {letra}
+una palabra que empiece con {letra}
+una palabra que empiece con la letra {letra}
+palabra que empiece con {letra}
+{letra}
+con {letra}
+la letra {letra}
+letra {letra}

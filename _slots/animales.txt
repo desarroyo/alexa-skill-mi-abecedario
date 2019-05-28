@@ -1,0 +1,113 @@
+Vaca,vaca,vaquita,vacas
+Oso,oso,osito
+Perro,perro,guau guau,perrito,perra
+Gato,gato,gatita,gatito,gata,gatos
+Pájaro,pajaro,pajarito,pajaro,pájaro
+Cuervo,cuervo
+Elefante,elefante
+Caballo,caballo,caballito
+León,leon,leoncito,leon
+Ácaro,acaro
+Abeja,abeja
+Abejorro,abejorro
+Águila,aguila
+Alacrán,alacran
+Alce,alce
+Alpaca,alpaca
+Araña,arana
+Ardilla,ardilla
+Avestruz,avestruz
+Burro,burro
+Ballena,ballena
+Buey,buey,güey,wey
+Búho,buho
+Cabra,cabra,cabron
+Cacatúa,cacatua
+Calamar,calamar
+Camello,camello
+Cangrejo,cangrejo
+Canguro,canguro
+Caracol,caracol
+Castor,castor
+Cebra,cebra
+Cerdo,cerdo
+Güepardo,guepardo
+Ciervo,ciervo
+Ciervo volante,ciervo_volante
+Cigüeña blanca,ciguena_blanca
+Coatí,coati
+Cocodrilo,cocodrilo,coco
+Colibrí,colibri
+Cóndor,condor
+Conejo,conejo
+Cucaracha,cucaracha
+Delfín,delfin
+Dinosaurio,dinosaurio
+Dragón de Komodo,dragon_de_komodo
+Dodo,dodo
+Estrella de mar,estrella_de_mar
+Dromaius,dromaius
+Escorpión,escorpion
+Equidna,equidna
+Phasianus colchicus,phasianus_colchicus
+Foca,foca
+Gallus gallus domesticus,gallo
+Gorila,gorila
+Guacamayo,guacamayo
+Guanaco,guanaco
+Gusano,gusano
+Hámster,hamster
+Hipopótamo,hipopotamo
+Hormiga,hormiga
+Iguana,iguana
+Jabalí,jabali
+Jaguar,jaguar
+Jirafa,jirafa
+Koala,koala
+Lagarto,lagarto
+Leopardo,leopardo
+Lince,lince
+Lobo,lobo
+Llama,llama
+Mamut,mamut
+Mariposa,mariposa
+Monstruo de Gila,monstruo_de_gila
+Mono,mono,monito,chango
+Mosca,mosca,mosquito
+Murciélago,murcielago
+Nutria,nutria
+Ñandú,nandu
+Ñu,nu
+Oso polar,oso_polar
+Leopardus pardalis,leopardus_pardalis
+Oruga,oruga
+Ornitorrinco,ornitorrinco
+Oveja,oveja
+Paloma,paloma
+Pantera,pantera
+Pato,pato,patito
+Pez,pez,peces,pescado
+Pingüino,pinguino
+Puma,puma
+Pulpo,pulpo
+Rana,rana,ranas,ranita
+Ratón,raton,ratitas,ratita,ratas,roedores,raton,Roedor
+Suricata,suricata
+Salamandra,salamandra
+Serpiente,serpiente
+Tapir,tapir
+Tejón,tejon
+Tiburón,tiburon
+Tigre,tigre
+Toro,toro
+Tortuga,tortuga
+Tucán,tucan
+Urraca,urraca
+Walabí,walabi
+Xifóforo,xifoforo
+Zorro,zorro
+Buitre,buitre
+Physeter macrocephalus,physeter_macrocephalus
+Mirounga,mirounga
+Fregata,fregata
+Curculionidae,curculionidae
